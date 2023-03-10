@@ -1,9 +1,5 @@
-function Index(){
+export default function Index(){
     return (
-    <>
     <h1>Teste novo pelo celular. Fiz um commit and sync hahaha</h1>
-    </>
     )
 }
-
-export default Index
