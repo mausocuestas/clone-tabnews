@@ -1,4 +1,4 @@
-function Home(){
+function Index(){
     return (
     <>
     <h1>Teste novo pelo celular. Fiz um commit and sync hahaha</h1>
@@ -6,4 +6,4 @@ function Home(){
     )
 }
 
-export default Home
+export default Index
